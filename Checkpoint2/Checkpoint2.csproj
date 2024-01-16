@@ -9,7 +9,7 @@
     <PackageReference Include="CommandLineParser" Version="2.7.82" />
     <PackageReference Include="IdentityServer4" Version="3.1.2" />
     <PackageReference Include="NEST" Version="7.6.0" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
     <PackageReference Include="System.Runtime" Version="4.3.1" />
   </ItemGroup>
 
